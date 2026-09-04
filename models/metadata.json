@@ -1,0 +1,13 @@
+{
+    "model_name": "RazorGuard XGBoost V2",
+    "model_type": "XGBoost Classifier",
+    "best_iteration": 1214,
+    "validation": {
+        "roc_auc": 0.9190201321143682,
+        "pr_auc": 0.5892059099240665,
+        "best_f1": 0.5685181625499085,
+        "precision_at_best_f1": 0.6831408775981525,
+        "recall_at_best_f1": 0.4868334430546412
+    },
+    "number_of_features": 66
+}
